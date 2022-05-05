@@ -1,0 +1,12 @@
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\bin\Debug\net5.0\Bongo.Models.deps.json
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\bin\Debug\net5.0\Bongo.Models.dll
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\bin\Debug\net5.0\Bongo.Models.pdb
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\obj\Debug\net5.0\Bongo.Models.csproj.AssemblyReference.cache
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\obj\Debug\net5.0\Bongo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\obj\Debug\net5.0\Bongo.Models.AssemblyInfoInputs.cache
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\obj\Debug\net5.0\Bongo.Models.AssemblyInfo.cs
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\obj\Debug\net5.0\Bongo.Models.csproj.CoreCompileInputs.cache
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\obj\Debug\net5.0\Bongo.Models.dll
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\obj\Debug\net5.0\refint\Bongo.Models.dll
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\obj\Debug\net5.0\Bongo.Models.pdb
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Models\obj\Debug\net5.0\ref\Bongo.Models.dll

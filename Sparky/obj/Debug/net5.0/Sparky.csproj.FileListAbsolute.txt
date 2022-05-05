@@ -1,0 +1,12 @@
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\bin\Debug\net5.0\Sparky.deps.json
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\bin\Debug\net5.0\Sparky.dll
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\bin\Debug\net5.0\Sparky.pdb
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\obj\Debug\net5.0\Sparky.csproj.AssemblyReference.cache
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\obj\Debug\net5.0\Sparky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\obj\Debug\net5.0\Sparky.AssemblyInfoInputs.cache
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\obj\Debug\net5.0\Sparky.AssemblyInfo.cs
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\obj\Debug\net5.0\Sparky.csproj.CoreCompileInputs.cache
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\obj\Debug\net5.0\Sparky.dll
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\obj\Debug\net5.0\ref\Sparky.dll
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\obj\Debug\net5.0\Sparky.pdb
+C:\Users\doihebunandu\source\repos\Sparky\Sparky\obj\Debug\net5.0\refint\Sparky.dll

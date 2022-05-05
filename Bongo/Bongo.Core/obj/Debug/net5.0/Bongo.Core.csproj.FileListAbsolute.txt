@@ -1,0 +1,17 @@
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\bin\Debug\net5.0\Bongo.Core.deps.json
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\bin\Debug\net5.0\Bongo.Core.dll
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\bin\Debug\net5.0\Bongo.Core.pdb
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\bin\Debug\net5.0\Bongo.DataAccess.dll
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\bin\Debug\net5.0\Bongo.Models.dll
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\bin\Debug\net5.0\Bongo.DataAccess.pdb
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\bin\Debug\net5.0\Bongo.Models.pdb
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\obj\Debug\net5.0\Bongo.Core.csproj.AssemblyReference.cache
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\obj\Debug\net5.0\Bongo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\obj\Debug\net5.0\Bongo.Core.AssemblyInfoInputs.cache
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\obj\Debug\net5.0\Bongo.Core.AssemblyInfo.cs
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\obj\Debug\net5.0\Bongo.Core.csproj.CoreCompileInputs.cache
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\obj\Debug\net5.0\Bongo.Core.csproj.CopyComplete
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\obj\Debug\net5.0\Bongo.Core.dll
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\obj\Debug\net5.0\refint\Bongo.Core.dll
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\obj\Debug\net5.0\Bongo.Core.pdb
+C:\Users\doihebunandu\source\repos\Sparky\Bongo\Bongo.Core\obj\Debug\net5.0\ref\Bongo.Core.dll
